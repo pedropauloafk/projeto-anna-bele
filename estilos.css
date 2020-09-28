@@ -1,0 +1,132 @@
+body {
+
+	background-image: url("imagens.html/fundo.png");
+	font:16px arial,Helveticam,sans-serif;
+	
+
+
+	  }
+
+
+
+	  	#principal{
+
+	  		width: 900px;
+	  		
+	  	}
+
+	  .borda1{
+	width:640px;
+	border:10px solid #999;
+	height:425px;
+
+	  }
+
+
+	  .borda2 {
+	  	width: 640px;
+	  	border: 10px solid #999;
+	  	height: 425px;
+
+
+	  }
+
+	  .borda3{
+
+	  	width: 640px;
+	  	border:10px solid #999;
+	  	height: 425px;
+
+	  }
+	  	#menu {
+
+	  		background: #a9a9a9;
+	  		padding: 5px;
+	  	}
+
+	 a {
+	 font-family: arial;
+	 font-size: 20px;
+	 color: #686868;
+	 text-decoration: none;
+	 font-weight: bold;
+
+
+	}
+
+	 }
+
+	body.biografia{
+
+		background-image: url(imagens.html/fundo.png);
+	}
+
+	h4.direitos {
+
+		text-align: center;
+	}
+
+	
+
+	h3.sub-titulo {
+
+		font-family: arial ;
+		color: grey;
+
+
+	}
+	 p{
+
+
+	 	text-align: justify, text-indent:10px;
+	 	color: black;
+	 }
+	 
+	 div#interface {
+
+
+	 
+		background-color: white;
+		margin: -300px 0px 0px left;
+		box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+		padding: 10px 10px 10px 10px;
+		position: relative ;
+		
+	 }
+	 div#interface2 {
+
+
+	 	
+		background-color: white;
+		margin: -300px 0px 0px left;
+		box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+		padding: 10px 10px 10px 10px;
+		position: relative ;
+		
+	 }
+
+
+	 div#interface3 {
+
+
+	 	
+	 	background-color: white;
+	 	margin: -300px 0px 0px left;
+	 	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+	 	position: relative;
+	 	padding: 10px;
+	 	
+
+
+	 }
+	 .imagem-contato {
+
+
+	  	border:10px solid #999;
+
+	  	
+	 }
+	 .direitos-contato{
+
+	 	text-align: center ;
+	 }
